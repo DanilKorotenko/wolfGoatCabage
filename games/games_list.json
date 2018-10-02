@@ -1,0 +1,15 @@
+{
+	"wolfGoatCabagge":
+	{
+		"name":"Волк, Коза и Капуста",
+		"details":
+		{
+			"version":"",
+			"author":"",
+			"info":""
+		},
+		"stead":2,
+		"theme":false,
+		"preload":["gb.png","instead.png","ru.png"]
+	}
+}
